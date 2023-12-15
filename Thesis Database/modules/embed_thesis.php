@@ -1,0 +1,1 @@
+<embed src="uploads/<?php echo $row['id'].".pdf"; ?>" style="width:1000px; height:700px;" />

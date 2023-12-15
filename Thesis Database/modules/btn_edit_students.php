@@ -1,0 +1,1 @@
+<a href="./?page=edit_students&id=<?php echo $row['id']; ?>" class="btn btn-primary">Edit</a>
